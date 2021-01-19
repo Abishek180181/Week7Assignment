@@ -21,7 +21,6 @@
             android:background="@drawable/das_gradient">
 
 
-
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.cardview.widget.CardView>
 
